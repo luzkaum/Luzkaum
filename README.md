@@ -1,16 +1,55 @@
-## Hi there 👋
-My Name is Lukas
-<!--
-**luzkaum/Luzkaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌌 Olá, eu sou o Lucas!
 
-Here are some ideas to get you started:
+🚀 Aprendiz de TI | Estudante de Front-End | Apaixonado por Tecnologia e Esportes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+
+
+
+
+
+</div>
+👨‍💻 Sobre mim
+
+🎓 Estudante de Front-End (HTML, CSS, JS)
+
+🖥️ Interesse crescente em automação, dados e IA
+
+💼 Atualmente trabalho como Aprendiz na PESACAT
+
+🥋 Praticante de artes marciais (Muay Thai & Boxe)
+
+🎮 Gamer nas horas vagas (favorito: Red Dead Redemption 2)
+
+🛠️ Tecnologias & Ferramentas
+<div align="center">
+
+
+
+
+
+
+
+
+
+
+</div>
+📊 Estatísticas
+<div align="center">
+
+
+
+
+</div>
+🌍 Onde me encontrar
+<div align="center">
+
+
+
+
+
+
+</div>
+
+🔥 “A tecnologia move o mundo, mas a disciplina molda o futuro.”
