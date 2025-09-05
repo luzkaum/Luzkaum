@@ -1,55 +1,32 @@
-🌌 Olá, eu sou o Lucas!
+👋 Olá, eu sou o Lucas
 
-🚀 Aprendiz de TI | Estudante de Front-End | Apaixonado por Tecnologia e Esportes
+Sou estudante de ADS, curioso por automação, dados e IA.
+Atualmente trabalho como Aprendiz na PESACAT e gosto de aprender coisas novas todos os dias.
 
-<div align="center">
+🚀 O que eu estudo
 
+Python, MySQL
 
+Java
 
+HTML, CSS e JavaScript
 
+Git e GitHub
 
+Conceitos de automação e IA
 
-</div>
-👨‍💻 Sobre mim
+🎯 Sobre mim
 
-🎓 Estudante de Front-End (HTML, CSS, JS)
+Moro em Curitiba - PR
 
-🖥️ Interesse crescente em automação, dados e IA
+Gosto de esportes (vôlei, muay thai, boxe e academia)
 
-💼 Atualmente trabalho como Aprendiz na PESACAT
+Apaixonado por tecnologia e games 
 
-🥋 Praticante de artes marciais (Muay Thai & Boxe)
+📬 Contato
 
-🎮 Gamer nas horas vagas (favorito: Red Dead Redemption 2)
+✉️ Email: luzkuam@gmail.com
 
-🛠️ Tecnologias & Ferramentas
-<div align="center">
+🔗 LinkedIn: linkedin.com/in/luzkaum
 
-
-
-
-
-
-
-
-
-
-</div>
-📊 Estatísticas
-<div align="center">
-
-
-
-
-</div>
-🌍 Onde me encontrar
-<div align="center">
-
-
-
-
-
-
-</div>
-
-🔥 “A tecnologia move o mundo, mas a disciplina molda o futuro.”
+👉 Esse é só o começo da minha jornada na tecnologia 🚀
