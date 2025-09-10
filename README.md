@@ -9,8 +9,6 @@ Python, MySQL
 
 Java
 
-HTML, CSS e JavaScript
-
 Git e GitHub
 
 Conceitos de automação e IA
