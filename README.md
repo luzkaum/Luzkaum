@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/luzkaum"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:luzkuam@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -31,18 +30,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luzkaum&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luzkaum&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="165">
-</p>
 
 ## 📬 Contato
 
-- ✉️ **Email:** luzkuam@gmail.com
 - 🔗 **LinkedIn:** [linkedin.com/in/luzkaum](https://linkedin.com/in/luzkaum)
-
 ---
 
 <p align="center">👉 Esse é só o começo da minha jornada na tecnologia 🚀</p>
