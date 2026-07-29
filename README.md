@@ -17,7 +17,7 @@
 - 🐍 Aprendendo **Python** no dia a dia
 - 🔐 Interessado em **Dados e Cybersecurity**
 - 📍 Moro em **Curitiba – PR**
-- 🏐 Nas horas vagas: vôlei, muay thai, boxe, academia e jogos 🎮
+- 🏐 Nas horas vagas: academia e jogos 🎮
 
 ## 🚀 Tecnologias que estou estudando
 
